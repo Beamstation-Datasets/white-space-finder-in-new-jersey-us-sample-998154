@@ -9,9 +9,9 @@
 | Dataset ID | `998154` |
 | Location | New Jersey |
 | Category | Restaurants |
-| Full dataset size | 39 records |
-| Free sample size | 3 records (7.69%) |
-| Last export | 2026-04-08T01:33:44.900032+00:00 |
+| Full dataset size | 38 records |
+| Free sample size | 3 records (7.89%) |
+| Last export | 2026-04-15T07:08:27.462720+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-new-jersey-us-sample-998154/releases/download/sample-latest/beamstation_998154_food_and_drink-us-nj_SAMPLE_DIST.csv) |
 
 ## What is in this sample
