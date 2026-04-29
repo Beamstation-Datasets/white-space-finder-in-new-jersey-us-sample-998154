@@ -1,6 +1,6 @@
 # White Space Finder in New Jersey, US
 
-> Free BeamStation sample export with 3 rows and masked direct-contact fields.
+> Free BeamStation sample export with 4 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `998154` |
 | Location | New Jersey |
 | Category | Restaurants |
-| Full dataset size | 30 records |
-| Free sample size | 3 records (10.0%) |
-| Last export | 2026-04-22T13:23:40.556065+00:00 |
+| Full dataset size | 40 records |
+| Free sample size | 4 records (10.0%) |
+| Last export | 2026-04-29T14:05:40.377611+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-new-jersey-us-sample-998154/releases/download/sample-latest/beamstation_998154_food_and_drink-us-nj_SAMPLE_DIST.csv) |
 
 ## What is in this sample
