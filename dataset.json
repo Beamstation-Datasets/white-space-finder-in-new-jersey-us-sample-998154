@@ -6,7 +6,7 @@
   "config_category": "expansion",
   "config_description": "The \"Blue Ocean\" Map. Specific markets where category demand is high (active sentiments) but supply is thin (<5 competitors) in cities with 50k+ population.\n\nThese records are the only locations in New Jersey that pass a strict tri-factor test for high density, severe market undersupply, and immediate micro-radius opportunity.",
   "config_name": "White Space Finder in New Jersey, US",
-  "export_job_id": "e2705b50-7c31-485c-b651-871139915a90",
+  "export_job_id": "13ffbb6e-5045-436d-b46a-56a56c14858f",
   "github_org": "Beamstation-Datasets",
   "id_short": 998154,
   "location_name": "New Jersey",
@@ -14,9 +14,9 @@
   "repo_name": "white-space-finder-in-new-jersey-us-sample-998154",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/998154/beamstation_998154_food_and_drink-us-nj_SAMPLE_DIST.csv",
   "sample_pct": 10.0,
-  "sample_records": 3,
-  "sample_sha256": "7b83c7c1c1154500789facffb032fb6ea5d2f46b7948ebc0c1678ceea68df7fa",
-  "sample_size_bytes": 28334,
-  "total_records": 30,
-  "updated_at": "2026-04-22T13:23:40.556065+00:00"
+  "sample_records": 4,
+  "sample_sha256": "72046adaab09472a97854d2329abc679b8fc664c06eff40f4862b2861a57d058",
+  "sample_size_bytes": 30917,
+  "total_records": 40,
+  "updated_at": "2026-04-29T14:05:40.377611+00:00"
 }
