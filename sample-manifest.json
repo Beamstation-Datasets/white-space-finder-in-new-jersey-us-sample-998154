@@ -1,12 +1,12 @@
 {
-  "export_job_id": "e2705b50-7c31-485c-b651-871139915a90",
+  "export_job_id": "13ffbb6e-5045-436d-b46a-56a56c14858f",
   "id_short": 998154,
-  "published_at": "2026-04-23T07:20:24Z",
+  "published_at": "2026-04-29T19:52:05Z",
   "repo_name": "white-space-finder-in-new-jersey-us-sample-998154",
   "sample_asset_name": "beamstation_998154_food_and_drink-us-nj_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/998154/beamstation_998154_food_and_drink-us-nj_SAMPLE_DIST.csv",
-  "sample_records": 3,
-  "sample_sha256": "7b83c7c1c1154500789facffb032fb6ea5d2f46b7948ebc0c1678ceea68df7fa",
-  "sample_size_bytes": 28334,
-  "total_records": 30
+  "sample_records": 4,
+  "sample_sha256": "72046adaab09472a97854d2329abc679b8fc664c06eff40f4862b2861a57d058",
+  "sample_size_bytes": 30917,
+  "total_records": 40
 }
